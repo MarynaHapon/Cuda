@@ -1,5 +1,141 @@
-@mixin bp-mobile {
-  @media (max-width: #{$max-width}) {
-    @content;
+  // retina image media query helper; given an image path with a 2x-sized version of an image, will load that image as a background-image on high-resolution devices
+  // @include image-2x('../images/image.png', 100%, auto);
+@mixin image-2x($image, $width, $height) {
+  @media (-webkit-min-device-pixel-ratio: 1.3),
+  (min-resolution: 124dpi),
+  (min-resolution: 1.3dppx) {
+    /* on retina, use image that's scaled by 2 */
+    background-image: url($image);
+    background-size: $width $height;
+  }
+}
+
+  // retina images
+  //  .logo {
+  //    background-image: url("img/logo.png");
+  //    @include retina("img/logo@2x.png", 100px, 21px);
+  //  }
+@mixin retina($image, $width, $height) {
+  @media (min--moz-device-pixel-ratio: 1.3),
+  (-o-min-device-pixel-ratio: 2.6/2),
+  (-webkit-min-device-pixel-ratio: 1.3),
+  (min-device-pixel-ratio: 1.3),
+  (min-resolution: 1.3dppx) {
+    /* Serving 2x image on Retina display */
+    background-image: url($image);
+    background-size: $width $height;
+  }
+}
+
+  // mixin helper to output vendor-prefixed CSS
+  // @include prefix(transform, translateY(-50%), 'webkit' 'ms');
+@mixin prefix($property, $value, $prefixes: ()) {
+  @each $prefix in $prefixes {
+    -#{$prefix}-#{$property}: $value;
+  }
+  #{$property}: $value;
+}
+
+  // shorthandizes position declarations
+  // @include position(absolute, $top: 10px, $left: 10px);
+@mixin position($type, $top: null, $right: null, $bottom: null, $left: null) {
+  position: $type;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+}
+
+  // sizing helper
+  // @include size(350px);
+@mixin size($width, $height: $width) {
+  width: $width;
+  height: $height;
+}
+
+  // horizontally centers block elements
+  // @include center-block;
+@mixin center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  // horizontally and vertically centers block elements
+  // @include center-both;
+@mixin center-both {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  @include prefix(transform, translate(-50%, -50%), 'webkit' 'ms');
+}
+
+  // vertically centers block elements with known height
+  // @include center-h(42px);
+@mixin center-h($height) {
+  position: absolute;
+  top: 50%;
+  height: $height;
+  margin-top: -($height / 2);
+}
+
+  // vertically centers block elements with unknown height
+  // @include center-h--unk;
+  @mixin center-h--unk {
+    position: relative;
+    top: 50%;
+    @include prefix(transform, translateY(-50%), 'webkit' 'ms');
+  }
+
+
+  // clearfix extend
+  // @extend %clearfix;
+%clearfix {
+  *zoom: 1;
+
+  &:before, &:after {
+    content: ' ';
+    display: table;
+  }
+
+  &:after {
+    clear: both;
+  }
+}
+
+  // Media queries
+  //  .wrapper {
+  //    margin: 0 auto;
+  //    width: 100%;
+  //    @include screen('tablet') {
+  //      width: 90%;
+  //    }
+  //    @include screen('desktop') {
+  //      width: 85%;
+  //    }
+  //  }
+@mixin screen($size) {
+  $desktop: "(min-width: 1024px)";
+  $tablet: "(min-width: 768px) and (max-width: 1023px)";
+  $mobile: "(max-width: 767px)";
+  @if $size == desktop {
+    @media only screen and #{$desktop} {
+      @content;
+    }
+  }
+  @else if $size == tablet {
+    @media only screen and #{$tablet} {
+      @content;
+    }
+  }
+  @else if $size == mobile {
+    @media only screen and #{$mobile} {
+      @content;
+    }
+  }
+  @else {
+    @media only screen and #{$size} {
+      @content;
+    }
   }
 }
