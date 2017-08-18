@@ -1,8 +1,22 @@
+.main-nav
+    display inline-block
+
+    a
+        margin 0 5px
+        padding 10px 30px
+        font-size 16px
+        border-radius 5px
+        color $white
+
+        &:hover
+            background-color $honey-flower
+
+
 .side-nav
     position(fixed, 0, 0, , )
     size(0, 100%)
     padding-top 60px
-    background-color #111
+    background-color $honey-flower
     overflow-x hidden
     transition 0.3s
     z-index 1
@@ -15,27 +29,19 @@
         text-decoration none
         transition 0.3s
 
+
     .close-nav-btn
         position(absolute, 0, 25px, , )
         margin-left 50px
         font-size 36px
+
 
 .open-nav-btn
     position(fixed, 15px, 25px, , )
     font-size 30px
     cursor pointer
 
+
 .side-nav a:hover
 .offcanvas a:focus
     color #f1f1f1
-
-#main
-    transition margin-left .3s
-    padding 20px
-
-@media screen and (max-height: 450px)
-    .side-nav
-        padding-top 15px
-
-        a
-           font-size 18px

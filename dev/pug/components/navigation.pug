@@ -1,7 +1,13 @@
+nav.main-nav
+    each link, title in nav.navPages
+        a(href= link)= title
+
 #sideNav.side-nav
-    a.close-nav-btn(href='javascript:void(0)', onclick='closeNav()') ×
+    a#closeNav.close-nav-btn(href='javascript:void(0)') ×
 
     each link, title in nav.navPages
-        a(src= link)= title
+        a(href= link)= title
 
-.open-nav-btn(onclick='openNav()') &#9776;
+span#openNav.open-nav-btn &#9776;
+
+#main

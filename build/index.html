@@ -10,9 +10,11 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script><![endif]-->
   </head>
   <body>
-    <div class="side-nav" id="sideNav"><a class="close-nav-btn" href="javascript:void(0)" onclick="closeNav()">×</a><a src="index.html">HOME</a><a src="index.html#about">ABOUT</a><a src="index.html#work">WORK</a><a src="index.html#blog">BLOG</a><a src="index.html#contact">CONTACT</a>
-    </div>
-    <div class="open-nav-btn" onclick="openNav()">&#9776;</div>
+    <nav class="main-nav"><a href="index.html">HOME</a><a href="index.html#about">ABOUT</a><a href="index.html#work">WORK</a><a href="index.html#blog">BLOG</a><a href="index.html#contact">CONTACT</a>
+    </nav>
+    <div class="side-nav" id="sideNav"><a class="close-nav-btn" id="closeNav" href="javascript:void(0)">×</a><a href="index.html">HOME</a><a href="index.html#about">ABOUT</a><a href="index.html#work">WORK</a><a href="index.html#blog">BLOG</a><a href="index.html#contact">CONTACT</a>
+    </div><span class="open-nav-btn" id="openNav">&#9776;</span>
+    <div id="main"></div>
     <script src="static/js/jquery.js"></script>
     <script src="static/js/libs.min.js"></script>
     <script src="static/js/main.js"></script>

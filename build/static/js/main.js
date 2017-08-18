@@ -9,3 +9,6 @@ function closeNav() {
     document.getElementById("main").style.marginRight = "0";
     document.body.style.backgroundColor = "white";
 }
+
+document.getElementById("openNav").onclick = openNav
+document.getElementById("closeNav").onclick = closeNav
