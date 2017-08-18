@@ -3,13 +3,30 @@
 @import 'libs.styl'
 @import 'mixins.styl'
 
+// pages
+@import 'pages/index.styl'
+
+// common styles
+@import 'common_styles.styl'
+
+// modules
+@import 'modules/header.styl'
+@import 'modules/footer.styl'
+
+// components
+@import 'components/navidation.styl'
+
+// media
+@import 'media.styl'
+
+
 html
 	line-height 1
 	font-size 16px
 
 
 body
-	font-family mainFont
+	font-family 'Titillium Web', sans-serif
 
 
 h1,h2,h3,h4,h5,h6
@@ -53,28 +70,3 @@ button
 
 *, *:before, *:after
 	box-sizing border-box
-
-
-// Общие стили
-@import 'common_styles.styl'
-
-
-// МОДУЛИ
-// Стили шапки
-@import 'modules/header.styl'
-
-// Стили футера
-@import 'modules/footer.styl'
-
-// Стили меню
-@import 'modules/menu.styl'
-
-
-// СТРАНИЦЫ
-// Стили главной страницы
-@import 'pages/index.styl'
-
-
-// ПРОЧЕЕ
-// Стили медиазапросов
-@import 'media.styl'
