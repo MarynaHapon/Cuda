@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
+    "pagepiling.js": "^1.5.4",
     "svg4everybody": "^2.1.8"
   }
 }

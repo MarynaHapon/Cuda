@@ -12,3 +12,9 @@ function closeNav() {
 
 document.getElementById("openNav").onclick = openNav
 document.getElementById("closeNav").onclick = closeNav
+
+
+
+$(document).ready(function() {
+    $('#pagepiling').pagepiling();
+});
