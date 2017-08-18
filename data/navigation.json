@@ -1,7 +1,9 @@
 {
   "navPages": {
-    "Главная страница" : "main.html",
-    "О компании" : "about.html",
-    "Каталог" : "catalog.html"
+    "HOME" : "index.html",
+    "ABOUT": "index.html#about",
+    "WORK": "index.html#work",
+    "BLOG": "index.html#blog",
+    "CONTACT": "index.html#contact"
   }
 }
