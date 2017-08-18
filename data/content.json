@@ -1,6 +1,13 @@
 {
-  "content": {
-    " " : " ",
-    " " : " "
+  "logo": {
+    "title" : "Cuda",
+    "link" : "index.html"
+  },
+  "header": {
+    "chapter": "Hi there! We are the new kids on the block and we build awesome websites and mobile apps.",
+    "btn": {
+      "title": "WORK WITH US!",
+      "link": "index.html"
+    }
   }
 }

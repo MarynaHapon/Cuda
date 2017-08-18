@@ -1,5 +1,13 @@
-include ../components/main-navigation
-include ../components/side-navigation
+header.wrapper.section
+    .inner
+        .nav-wrapper
+            a.logo(href= content.logo.link)= content.logo.title
+            include ../components/main-navigation
+            include ../components/side-navigation
 
+        .slogan-wrapper
+            .slogan-inner
+                h1.header-chapter= content.header.chapter
+                a.btn.header-btn(href= content.header.btn.link)= content.header.btn.title
 
-#main
+    #main
