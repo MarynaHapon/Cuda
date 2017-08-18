@@ -10,11 +10,12 @@ function closeNav() {
     document.body.style.backgroundColor = "white";
 }
 
-document.getElementById("openNav").onclick = openNav
-document.getElementById("closeNav").onclick = closeNav
+//document.getElementById("openNav").onclick = openNav
+//document.getElementById("closeNav").onclick = closeNav
 
 
 
-$(document).ready(function() {
-    $('#pagepiling').pagepiling();
+$('#pagepiling').pagepiling({
+    anchors: ['home', 'services', 'team', 'skills', 'work', 'blog', 'contact'],
+    menu: '#myMenu'
 });
