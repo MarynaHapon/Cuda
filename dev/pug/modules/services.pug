@@ -1,2 +1,12 @@
 .services.wrapper.section
     .inner
+        .services-inner
+            h2.services-title= content.services.title
+            .services-separator
+            p.services-subtitle= content.services.subtitle
+
+            .services-list
+                +ServiceItem(content.services.branding.title, content.services.branding.text, content.services.branding.imgSrc, content.services.branding.imgAlt)
+                +ServiceItem(content.services.design.title, content.services.design.text, content.services.design.imgSrc, content.services.design.imgAlt)
+                +ServiceItem(content.services.development.title, content.services.development.text, content.services.development.imgSrc, content.services.development.imgAlt)
+                +ServiceItem(content.services.science.title, content.services.science.text, content.services.science.imgSrc, content.services.science.imgAlt)

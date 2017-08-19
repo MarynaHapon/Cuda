@@ -3,3 +3,9 @@ mixin icon(name,mod)
 	svg(class="icon icon-" + name + ' ' + mod)
 		use(xlink:href="/static/img/svg/symbol/sprite.svg#" + name)
 
+
+mixin ServiceItem(title, text, imgSrc, imgAlt)
+	.services-item
+		img(src= imgSrc, alt= imgAlt).service-item-img
+		h4.service-item-title= title
+		p.service-item-text= text

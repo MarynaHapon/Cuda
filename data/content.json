@@ -3,11 +3,47 @@
     "title" : "Cuda",
     "link" : "index.html"
   },
+
+
   "header": {
     "chapter": "Hi there! We are the new kids on the block and we build awesome websites and mobile apps.",
     "btn": {
       "title": "WORK WITH US!",
       "link": "index.html#work"
+    }
+  },
+
+
+  "services": {
+    "title": "SERVICES WE PROVIDE",
+    "subtitle": "We are working with both individuals and businesses from all over the globe to create awesome websites and applications.",
+
+    "branding": {
+      "title": "BRANDING",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.",
+      "imgSrc": "static/img/general/branding.png",
+      "imgAlt": "branding"
+    },
+
+    "design": {
+      "title": "DESIGN",
+      "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem  ",
+      "imgSrc": "static/img/general/design.png",
+      "imgAlt": "design"
+    },
+
+    "development": {
+      "title": "DEVELOPMENT",
+      "text": "At vero eos et accusamus et iusto odio dignissimos qui blanditiis praesentium.",
+      "imgSrc": "static/img/general/development.png",
+      "imgAlt": "development"
+    },
+
+    "science": {
+      "title": "ROCKET SCIENCE",
+      "text": "Et harum quidem rerum est et expedita distinctio. Nam libero tempore.",
+      "imgSrc": "static/img/general/rocket.png",
+      "imgAlt": "rocket science"
     }
   }
 }
