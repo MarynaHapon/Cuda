@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd8c2407-7bdd-4148-b715-ee8ae6a8753b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/static/css/main.css" afterPath="$PROJECT_DIR$/build/static/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/static/js/main.js" afterPath="$PROJECT_DIR$/build/static/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/content.json" afterPath="$PROJECT_DIR$/data/content.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/pug/modules/header.pug" afterPath="$PROJECT_DIR$/dev/pug/modules/header.pug" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/js/main.js" afterPath="$PROJECT_DIR$/dev/static/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/stylus/common_styles.styl" afterPath="$PROJECT_DIR$/dev/static/stylus/common_styles.styl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/stylus/modules/header.styl" afterPath="$PROJECT_DIR$/dev/static/stylus/modules/header.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/stylus/vars.styl" afterPath="$PROJECT_DIR$/dev/static/stylus/vars.styl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -62,8 +58,8 @@
           <file leaf-file-name="common_styles.styl" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/dev/static/stylus/common_styles.styl">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="457">
-                  <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+                <state relative-caret-position="202">
+                  <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -87,7 +83,7 @@
             <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/header.styl">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="457">
-                  <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+                  <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -331,12 +327,12 @@
       <option name="presentableId" value="Default" />
       <updated>1503047771380</updated>
       <workItem from="1503047778989" duration="30937000" />
-      <workItem from="1503125754318" duration="2724000" />
+      <workItem from="1503125754318" duration="3243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33661000" />
+    <option name="totallyTimeSpent" value="34180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="3" width="1287" height="720" extended-state="0" />
@@ -723,8 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/static/stylus/common_styles.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state relative-caret-position="202">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -732,7 +728,7 @@
     <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/header.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
           <folding />
         </state>
       </provider>
