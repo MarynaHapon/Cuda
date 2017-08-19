@@ -3,11 +3,10 @@
         .team-inner
             h2.team-title= content.team.title
             .team-separator
-            p.team-subtitle
+            p.team-subtitle= content.team.subtitle
 
             .team-list
                 +TeamItem(content.team.ceo.name, content.team.ceo.position, content.team.ceo.about, content.team.ceo.social.facebook, content.team.ceo.social.twitter, content.team.ceo.social.linkedin, content.team.ceo.social.mail, content.team.ceo.imgSrc)
                 +TeamItem(content.team.director.name, content.team.director.position, content.team.director.about, content.team.director.social.facebook, content.team.director.social.twitter, content.team.director.social.linkedin, content.team.director.social.mail, content.team.director.imgSrc)
                 +TeamItem(content.team.designer.name, content.team.designer.position, content.team.designer.about, content.team.designer.social.facebook, content.team.designer.social.twitter, content.team.designer.social.linkedin, content.team.designer.social.mail, content.team.designer.imgSrc)
                 +TeamItem(content.team.developer.name, content.team.developer.position, content.team.developer.about, content.team.developer.social.facebook, content.team.developer.social.twitter, content.team.developer.social.linkedin, content.team.developer.social.mail, content.team.developer.imgSrc)
-
