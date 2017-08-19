@@ -18,7 +18,6 @@ $(document).ready(function() {
     $('#pagepiling').pagepiling({
         anchors: ['home', 'services', 'team', 'skills', 'work', 'blog', 'contact'],
         menu: '#myMenu',
-
-
     });
 });
+
