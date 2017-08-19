@@ -22,10 +22,16 @@ header
     text-align center
 
 
+
 .header-btn
+    @extend .btn
     margin 60px 0 0 0
     background-color $jaffa
-    border-bottom-color $red-damask
+    box-shadow 0 9px $red-damask
 
     &:hover
-        background-color $red-damask
+        background-color $jaffa-tint
+
+    &:active
+        background-color $jaffa
+        box-shadow 0 5px $red-damask-shade
