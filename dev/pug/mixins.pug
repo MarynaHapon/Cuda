@@ -9,3 +9,17 @@ mixin ServiceItem(title, text, imgSrc, imgAlt)
 		img(src= imgSrc, alt= imgAlt).service-item-img
 		h4.service-item-title= title
 		p.service-item-text= text
+
+
+mixin TeamItem(name, position, about, fb, tw, li,mail, imgSrc)
+	.team-item
+		img(src= imgSrc, alt= name).team-image
+		h4.team-name= name
+		p.team-position= position
+		p.team-about= about
+
+		.team-social
+			a(href= fb)
+			a(href= tw)
+			a(href= li)
+			a(href= mail)
