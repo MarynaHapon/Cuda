@@ -28,7 +28,8 @@
     "gulp-svgmin": "^1.2.4",
     "gulp-tinypng": "^1.0.2",
     "gulp-uglifyjs": "^0.6.2",
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "progressbar.js": "^1.0.1"
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
