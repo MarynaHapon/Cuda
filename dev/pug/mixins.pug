@@ -13,9 +13,10 @@ mixin ServiceItem(title, text, imgSrc, imgAlt)
 
 mixin TeamItem(name, position, about, fb, tw, li,mail, imgSrc)
 	.team-item
-		img(src= imgSrc, alt= name).team-image
-		h4.team-name= name
-		p.team-position= position
+		div
+			img(src= imgSrc, alt= name).team-image
+			h4.team-name= name
+			p.team-position= position
 		p.team-about= about
 
 		.team-social
