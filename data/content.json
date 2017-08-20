@@ -56,7 +56,7 @@
       "name": "ANNE HATHAWAY",
       "position": "CEO / Marketing Guru",
       "about": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.",
-      "imgSrc": "static/img/content/ceo.jpeg",
+      "imgSrc": "static/img/general/ceo.jpeg",
       "social": {
         "facebook": "#",
         "twitter": "#",
@@ -70,7 +70,7 @@
       "name": "KATE UPTON",
       "position": "Creative Director",
       "about": "Duis aute irure dolor in in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat non diam proident.",
-      "imgSrc": "static/img/content/director.jpeg",
+      "imgSrc": "static/img/general/director.jpeg",
 
       "social": {
         "facebook": "#",
@@ -84,7 +84,7 @@
       "name": "OLIVIA WILDE",
       "position": "Lead Designer",
       "about": "Nemo enim ipsam voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem nesciunt.",
-      "imgSrc": "static/img/content/designer.jpeg",
+      "imgSrc": "static/img/general/designer.jpeg",
 
       "social": {
         "facebook": "#",
@@ -98,7 +98,7 @@
       "name": "ASHLEY GREENE",
       "position": "SEO / Developer",
       "about": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-      "imgSrc": "static/img/content/developer.jpeg",
+      "imgSrc": "static/img/general/developer.jpeg",
 
       "social": {
         "facebook": "#",
