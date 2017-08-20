@@ -1,9 +1,25 @@
 .skills.wrapper.section
     .inner
 
-        .skills-list
-            #webDesign
-            #htmlCss
-            #graphicDesign
-            #uiUx
+        .skills-inner
+            h2.skills-title= content.skills.title
+            .skills-separator
+            p.skills-subtitle= content.skills.subtitle
+
+            .skills-list
+                .skills-item
+                    #webDesign
+                    p.skills-item-title= "WEB DESIGN"
+
+                .skills-item
+                    #htmlCss
+                    p.skills-item-title= "HTML / CSS"
+
+                .skills-item
+                    #graphicDesign
+                    p.skills-item-title= "GRAPHIC DESIGN"
+
+                .skills-item
+                    #uiUx
+                    p.skills-item-title= "UI / UX"
 
