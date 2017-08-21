@@ -1,2 +1,115 @@
 footer
     background-color $tory-blue
+
+
+.footer-inner
+    height 100vh
+    display flex
+    flex-direction column
+    justify-content center
+    align-items center
+
+
+.footer-separator
+    @extend .separator
+    background-color $resolution-blue
+
+
+.footer-title
+.footer-subtitle
+    color $white
+
+
+.footer-form
+    display flex
+    flex-direction column
+    //flex-wrap wrap
+    justify-content center
+    margin-top 20px
+    max-width 800px
+    width 100%
+
+.footer-title
+    font-size 40px
+    text-align center
+
+
+.footer-subtitle
+    padding-bottom 20px
+    max-width 70vw
+    font-size 18px
+    line-height 26px
+
+
+textarea
+    margin 30px 0 0
+    height 200px
+    padding 1em
+    border-radius 5px
+    border 0
+    background-color $resolution-blue
+
+
+input[name='name']
+input[type='email']
+    padding 15px 25px
+    border-radius 5px
+    background-color $resolution-blue
+
+
+.footer-input-wrap
+    display flex
+    flex-direction row
+
+
+input[name='name']
+    margin-right 15px
+    width calc(50% - 15px)
+
+
+input[type='email']
+    margin-left 15px
+    width calc(50% - 15px)
+
+
+input[name='name']
+input[type='email']
+input[type='submit']
+textarea
+    font-family 'Titillium Web', sans-serif
+
+
+input[name='name']
+input[type='email']
+input[type='submit']
+    border 0
+
+
+input[name='name']
+input[type='email']
+input[type='submit']
+textarea
+    font-size 18px
+    color $white
+
+
+input[type='submit']
+    display inline-block
+    margin 30px auto
+    width 290px
+    padding 25px 80px
+    border-radius 5px
+    font-weight bold
+    text-align center
+    outline none
+    background-color $summer-sky
+    box-shadow 0 5px $pelorous
+    transition .3s
+
+    &:hover
+        background-color $summer-sky-tint
+
+    &:active
+        background-color $summer-sky
+        box-shadow 0 5px $pelorous-shade
+        transform translateY(4px)
