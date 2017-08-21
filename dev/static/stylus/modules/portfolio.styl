@@ -1,2 +1,78 @@
 .portfolio
     background-color $cream-brulee
+    text-align center
+
+
+.portfolio-inner
+    height 100vh
+    display flex
+    flex-direction column
+    justify-content center
+    align-items center
+
+
+.portfolio-separator
+    @extend .separator
+    background-color $new-orleans
+
+
+.portfolio-list
+    display flex
+    flex-direction row
+    justify-content space-around
+    flex-wrap wrap
+
+
+.portfolio-item
+    display none
+    margin 30px 0
+
+
+.portfolio-title
+.portfolio-subtitle
+.portfolio-item-text
+    color $eclipse
+
+
+.portfolio-title
+    font-size 40px
+
+
+.portfolio-subtitle
+    padding-bottom 20px
+    max-width 70vw
+    font-size 18px
+    line-height 26px
+
+
+.portfolio-item-text
+    margin-top 20px
+    font-size 18px
+    font-weight bold
+
+
+.portfolio-item-img
+    size(400px, auto)
+
+
+#loadMore
+    @extend .btn
+    background-color $light-sea-green
+    box-shadow 0 5px $mountain-meadow
+
+    &:hover
+        background-color $light-sea-green-tint
+
+    &:active
+        background-color $light-sea-green
+        box-shadow 0 2px $mountain-meadow-shade
+
+
+
+.totop
+    position fixed
+    bottom 10px
+    right 20px
+
+    a
+        display none
