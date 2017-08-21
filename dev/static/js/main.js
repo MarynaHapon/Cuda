@@ -4,7 +4,7 @@ $(document).ready(function() {
         strokeWidth: 10,
         trailWidth: 10,
         easing: 'easeInOut',
-        duration: 1400,
+        duration: 900,
         text: {
             autoStyleContainer: false
         },
@@ -32,7 +32,7 @@ $(document).ready(function() {
         strokeWidth: 10,
         trailWidth: 10,
         easing: 'easeInOut',
-        duration: 1400,
+        duration: 750,
         text: {
             autoStyleContainer: false
         },
@@ -60,7 +60,7 @@ $(document).ready(function() {
         strokeWidth: 10,
         trailWidth: 10,
         easing: 'easeInOut',
-        duration: 1400,
+        duration: 700,
         text: {
             autoStyleContainer: false
         },
@@ -88,7 +88,7 @@ $(document).ready(function() {
         strokeWidth: 10,
         trailWidth: 10,
         easing: 'easeInOut',
-        duration: 1400,
+        duration: 850,
         text: {
             autoStyleContainer: false
         },
@@ -124,7 +124,7 @@ $(document).ready(function() {
                 bar4.animate(0.85);
             }
         },
-        
+
         onLeave: function(index, nextIndex, direction){
 
             if(index == 4 && direction =='down'){
