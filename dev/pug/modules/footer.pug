@@ -1,4 +1,4 @@
-footer.wrapper.section
+footer.wrapper.section.pp-scrollable
     .inner
         .footer-inner
             h2.footer-title= content.footer.title
@@ -14,6 +14,7 @@ footer.wrapper.section
                 input(type='submit', value='SEND MESSAGE').footer-btn
 
 
-            each link, title in content.footer.social
-                +FooterSocial(title, link)
+            ul.footer-social-list
+                each link, title in content.footer.social
+                    +FooterSocial(title, link)
 
