@@ -155,6 +155,8 @@ $(document).ready(function() {
             $('html,body').animate({
                 scrollTop: $(this).offset().top
             }, 1500);
+
+            $(".portfolio-inner").height("auto")
         });
     });
 
