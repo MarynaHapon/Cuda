@@ -34,8 +34,8 @@ mixin PortfolioItem(imgSrc, text)
 
 mixin BlogItem(name, position, text, imgSrc)
 	.blog-item
-		img(src= imgSrc, alt= name)
+		img(src= imgSrc, alt= name).blog-img
 		.blog-text-wrap
+			p.blog-text= text
 			h4.blog-name= name
 			p.blog-position= position
-			p.blog-text= text
