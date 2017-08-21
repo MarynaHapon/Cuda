@@ -112,6 +112,37 @@
   "skills": {
     "title": "WE GOT SKILLS!",
     "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+
+  "portfolio": {
+    "title": "OUR PORTFOLIO",
+    "subtitle": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam",
+    "list": {
+      "static/img/content/isometric.png": "Isometric Perspective Mock-Up",
+      "static/img/content/timezone.png": "Time Zone App UI",
+      "static/img/content/viromedia.png": "Viro Media Players UI",
+      "static/img/content/blogmagasine.png": "Blog / Magazine Flat UI Kit",
+
+      "static/img/content/isometric1.png": "Isometric Perspective Mock-Up",
+      "static/img/content/timezone1.png": "Time Zone App UI",
+      "static/img/content/viromedia1.png": "Viro Media Players UI",
+      "static/img/content/blogmagasine1.png": "Blog / Magazine Flat UI Kit",
+
+      "static/img/content/isometric2.png": "Isometric Perspective Mock-Up",
+      "static/img/content/timezone2.png": "Time Zone App UI",
+      "static/img/content/viromedia2.png": "Viro Media Players UI",
+      "static/img/content/blogmagasine2.png": "Blog / Magazine Flat UI Kit",
+
+      "static/img/content/isometric3.png": "Isometric Perspective Mock-Up",
+      "static/img/content/timezone3.png": "Time Zone App UI",
+      "static/img/content/viromedia3.png": "Viro Media Players UI",
+      "static/img/content/blogmagasine3.png": "Blog / Magazine Flat UI Kit",
+
+      "static/img/content/isometric4.png": "Isometric Perspective Mock-Up",
+      "static/img/content/timezone4.png": "Time Zone App UI",
+      "static/img/content/viromedia4.png": "Viro Media Players UI",
+      "static/img/content/blogmagasine4.png": "Blog / Magazine Flat UI Kit"
+    }
   }
 
 

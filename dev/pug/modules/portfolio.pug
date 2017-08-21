@@ -1,2 +1,14 @@
-.portfolio.wrapper.section
+.portfolio.wrapper.section.pp-scrollable
     .inner
+        .portfolio-inner
+            h2.portfolio-title= content.portfolio.title
+            .portfolio-separator
+            p.portfolio-subtitle= content.portfolio.subtitle
+
+            .portfolio-list
+                each title, src in content.portfolio.list
+                    +PortfolioItem(src, title)
+
+                a#loadMore(href='#') Load More
+                p.totop
+                    a(href='#top') Back to top

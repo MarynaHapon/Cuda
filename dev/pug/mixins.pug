@@ -26,3 +26,8 @@ mixin TeamItem(name, position, about, fb, tw, li,mail, imgSrc)
 			a(href= mail).social-mail
 
 
+mixin PortfolioItem(imgSrc, text)
+	.portfolio-item
+		img(src= imgSrc, alt= text).portfolio-item-img
+		p.portfolio-item-text= text
+
