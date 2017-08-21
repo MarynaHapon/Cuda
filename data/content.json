@@ -179,7 +179,21 @@
       }
 
     }
-  }
+  },
 
+  "footer": {
+    "title": "GET IN TOUCH",
+    "subtitle": "1600 Pennsylvania Ave NW, Washington, DC 20500, United States of America. Tel: (202) 456-1111",
+
+    "social": {
+      "Facebook": "#",
+      "Twitter": "#",
+      "Google+": "#",
+      "LinkedIn": "#",
+      "Behance": "#",
+      "Dribbble": "#",
+      "GitHub": "#"
+    }
+  }
 
 }

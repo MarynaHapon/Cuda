@@ -39,3 +39,9 @@ mixin BlogItem(name, position, text, imgSrc)
 			p.blog-text= text
 			h4.blog-name= name
 			p.blog-position= position
+
+
+mixin FooterSocial(title, link)
+	ul.foter-social-list
+		li
+			a(href= link).footer-social-link= title

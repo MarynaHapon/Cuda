@@ -1,2 +1,17 @@
 footer.wrapper.section
     .inner
+        .footer-inner
+            h2.footer-title= content.footer.title
+            .footer-separator
+            p.footer-subtitle= content.footer.subtitle
+
+            form(action='', method='post')
+
+                input#POST-name(type='text', name='name', placeholder='Your Name')
+                input(type='email', placeholder='Enter email')
+                textarea(rows='4', cols='50', placeholder='You Message*')
+                input(type='submit', value='SEND MESSAGE')
+
+            each link, title in content.footer.social
+                +FooterSocial(title, link)
+
