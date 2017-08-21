@@ -31,3 +31,11 @@ mixin PortfolioItem(imgSrc, text)
 		img(src= imgSrc, alt= text).portfolio-item-img
 		p.portfolio-item-text= text
 
+
+mixin BlogItem(name, position, text, imgSrc)
+	.blog-item
+		img(src= imgSrc, alt= name)
+		.blog-text-wrap
+			h4.blog-name= name
+			p.blog-position= position
+			p.blog-text= text
