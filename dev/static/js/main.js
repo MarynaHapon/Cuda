@@ -145,22 +145,22 @@ $(document).ready(function() {
 
 
     $(function () {
-        $(".portfolio-item").slice(0, 2).show();
-        $("#loadMore").on('click', function (e) {
+        $('.portfolio-item').slice(0, 2).show();
+        $('#loadMore').on('click', function (e) {
             e.preventDefault();
-            $("div:hidden").slice(0, 2).slideDown();
-            if ($("div:hidden").length == 0) {
+            $('div:hidden').slice(0, 2).slideDown();
+            if ($('div:hidden').length == 0) {
                 $("#load").fadeOut('slow');
             }
             $('html,body').animate({
                 scrollTop: $(this).offset().top
             }, 1500);
 
-            $(".portfolio-inner").height("auto")
+            $('.portfolio-inner').height('auto')
         });
     });
 
-    $('a[href=#top]').click(function () {
+    $("a[href='#top']").click(function () {
         $('body,html').animate({
             scrollTop: 0
         }, 600);
