@@ -23,7 +23,7 @@ $ npm install -g gulp
 
 ```bash
 $ git clone https://github.com/MarynaHapon/Cuda
-$ cd starterkit/ && npm install
+$ npm install
 $ gulp
 ```
 
@@ -86,5 +86,4 @@ $ gulp
 ```
 
 ##  Starter Kit
-#### Author
-[Anatoliy Salamtin](https://github.com/FARCER)
+[gulp4start](https://github.com/FARCER/gulp4start)
