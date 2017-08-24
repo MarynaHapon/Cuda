@@ -114,6 +114,10 @@ $(document).ready(function() {
     $('#pagepiling').pagepiling({
         anchors: ['home', 'services', 'team', 'skills', 'work', 'blog', 'contact'],
         menu: '#myMenu',
+        navigation: {
+            'position': 'right',
+            'tooltips': ['home', 'services', 'team', 'skills', 'work', 'blog', 'contact']
+        },
 
         afterLoad: function(anchorLink, index){
 
