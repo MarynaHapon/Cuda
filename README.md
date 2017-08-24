@@ -55,7 +55,9 @@ $ gulp
 │   │   │   └── /general/             # Images folder.
 │   │   └── /js/                    # JS files.
 │   └── *.html                      # Rendered and compiled HTMLs from Pug.
-├── /node_modules/                  # Node modules dependencies and packages.
+├── /data/                          # JSON files with site content.
+│   └── content.json                  # JSON file with site content.
+│   └── navigation.json               # JSON file with navigation content.
 ├── /dev/                           # Dev folder.
 │   ├── /pug/                       # Pug folder.
 │   │   ├── /components/            # Pug folder.
@@ -82,6 +84,7 @@ $ gulp
 │   │   │   └── media.styl            # Stylus  file.
 │   │   │   └── mixins.styl           # Stylus  file.
 │   │   │   └── vars.styl             # Stylus  file.
+├── /node_modules/                  # Node modules dependencies and packages.
 └── gulpfile.js              # Gulp automatization file.
 ```
 
