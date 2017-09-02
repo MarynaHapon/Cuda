@@ -75,6 +75,12 @@
     line-height 24px
 
 
+.sprite
+    background-image url('../img/general/spritesheet.png')
+    background-repeat no-repeat
+    background-size 65px
+
+
 .social-fb
 .social-tw
 .social-li
@@ -82,33 +88,36 @@
     display inline-block
     margin 4px
     padding 15px
-    background-size cover
     border-radius 100%
 
 
 .social-fb
-    background $spindle url('../../static/img/general/facebook.png') no-repeat center
+    background-color $spindle
+    background-position -18px -17px
 
     &:hover
         background-color $facebook
 
 
 .social-tw
-    background $spindle url('../../static/img/general/twitter.png') no-repeat center
+    background-color $spindle
+    background-position -17px -212px
 
     &:hover
         background-color $twitter
 
 
 .social-li
-    background $spindle url('../../static/img/general/linkedin-logo.png') no-repeat center
+    background-color $spindle
+    background-position -17px -84px
 
     &:hover
         background-color $linkedin
 
 
 .social-mail
-    background $spindle url('../../static/img/general/mail.png') no-repeat center
+    background-color $spindle
+    background-position -18px -148px
 
     &:hover
         background-color $mail
