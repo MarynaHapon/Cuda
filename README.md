@@ -1,5 +1,6 @@
 # Cuda
-Single Page Portfolio - [link](https://marynahapon.github.io/Cuda/build/index.html)
+Single Page Portfolio - [link](https://marynahapon.github.io/Cuda/build/index.html). 
+With flex-wrap property.
 
 
 ## Technologies
