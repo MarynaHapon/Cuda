@@ -41,7 +41,9 @@ $ gulp
 - ``serve``
 - ``watch``
 
+```js:uglify```: Runs the **gulp-uglifyjs** plugin for the **main.js** file.
 
+```js:concat```: Runs the **gulp-concat** plugin for chosen files.
 
 ## Project Structure
 
