@@ -5,11 +5,11 @@ footer.wrapper.section.pp-scrollable
             .footer-separator
             p.footer-subtitle= content.footer.subtitle
 
-            form(action='mailto:marynahapon@gmail.com', method='post').footer-form
+            form(method='post').footer-form
                 .footer-input-wrap
-                    input#POST-name(type='text', name='name', placeholder='Your Name')
-                    input(type='email', placeholder='Enter Email')
-                textarea(rows='4', cols='50', placeholder='You Message')
+                    input(type='text', name='name', placeholder='Your Name', title='Your Name', required=)
+                    input(type='email', placeholder='Enter Email', title='youremail@gmail.com', required)
+                textarea(rows='4', cols='50', placeholder='You Message', required)
 
                 input(type='submit', value='SEND MESSAGE').footer-btn
 

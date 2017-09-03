@@ -2,24 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd8c2407-7bdd-4148-b715-ee8ae6a8753b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/adriana.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/anne.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/chanel.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/emma.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/linkedin-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/content/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/general/ceo.jpeg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/general/cuda.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/general/designer.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/general/developer.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/img/general/director.jpeg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/static/img/content/ceo.jpeg" afterPath="$PROJECT_DIR$/build/static/img/content/ceo.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/static/img/content/designer.jpeg" afterPath="$PROJECT_DIR$/build/static/img/content/designer.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/static/img/content/developer.jpeg" afterPath="$PROJECT_DIR$/build/static/img/content/developer.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/static/img/content/director.jpeg" afterPath="$PROJECT_DIR$/build/static/img/content/director.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/adriana.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/content/adriana.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/anne.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/content/anne.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/blogmagasine.png" afterPath="$PROJECT_DIR$/dev/static/img/content/blogmagasine.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/blogmagasine1.png" afterPath="$PROJECT_DIR$/dev/static/img/content/blogmagasine1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/blogmagasine2.png" afterPath="$PROJECT_DIR$/dev/static/img/content/blogmagasine2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/blogmagasine3.png" afterPath="$PROJECT_DIR$/dev/static/img/content/blogmagasine3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/blogmagasine4.png" afterPath="$PROJECT_DIR$/dev/static/img/content/blogmagasine4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/chanel.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/content/chanel.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/emma.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/content/emma.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/isometric.png" afterPath="$PROJECT_DIR$/dev/static/img/content/isometric.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/isometric1.png" afterPath="$PROJECT_DIR$/dev/static/img/content/isometric1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/isometric2.png" afterPath="$PROJECT_DIR$/dev/static/img/content/isometric2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/isometric3.png" afterPath="$PROJECT_DIR$/dev/static/img/content/isometric3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/isometric4.png" afterPath="$PROJECT_DIR$/dev/static/img/content/isometric4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/timezone.png" afterPath="$PROJECT_DIR$/dev/static/img/content/timezone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/timezone1.png" afterPath="$PROJECT_DIR$/dev/static/img/content/timezone1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/timezone2.png" afterPath="$PROJECT_DIR$/dev/static/img/content/timezone2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/timezone3.png" afterPath="$PROJECT_DIR$/dev/static/img/content/timezone3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/timezone4.png" afterPath="$PROJECT_DIR$/dev/static/img/content/timezone4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/viromedia.png" afterPath="$PROJECT_DIR$/dev/static/img/content/viromedia.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/viromedia1.png" afterPath="$PROJECT_DIR$/dev/static/img/content/viromedia1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/viromedia2.png" afterPath="$PROJECT_DIR$/dev/static/img/content/viromedia2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/viromedia3.png" afterPath="$PROJECT_DIR$/dev/static/img/content/viromedia3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/content/viromedia4.png" afterPath="$PROJECT_DIR$/dev/static/img/content/viromedia4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/branding.png" afterPath="$PROJECT_DIR$/dev/static/img/general/branding.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/ceo.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/general/ceo.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/design.png" afterPath="$PROJECT_DIR$/dev/static/img/general/design.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/designer.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/general/designer.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/developer.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/general/developer.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/development.png" afterPath="$PROJECT_DIR$/dev/static/img/general/development.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/director.jpeg" afterPath="$PROJECT_DIR$/dev/static/img/general/director.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/rocket.png" afterPath="$PROJECT_DIR$/dev/static/img/general/rocket.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/img/general/spritesheet.png" afterPath="$PROJECT_DIR$/dev/static/img/general/spritesheet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/static/css/main.css" afterPath="$PROJECT_DIR$/build/static/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/pug/mixins.pug" afterPath="$PROJECT_DIR$/dev/pug/mixins.pug" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/stylus/modules/team.styl" afterPath="$PROJECT_DIR$/dev/static/stylus/modules/team.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/pug/modules/footer.pug" afterPath="$PROJECT_DIR$/dev/pug/modules/footer.pug" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/static/stylus/modules/footer.styl" afterPath="$PROJECT_DIR$/dev/static/stylus/modules/footer.styl" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,7 +59,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3974563">
+    <splitter split-orientation="horizontal" split-proportion="0.49095842">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="media.styl" pinned="false" current-in-tab="false">
@@ -59,20 +85,50 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="footer.pug" pinned="false" current-in-tab="false">
+          <file leaf-file-name="footer.pug" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/dev/pug/modules/footer.pug">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+                <state relative-caret-position="105">
+                  <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="mixins.pug" pinned="false" current-in-tab="true">
+          <file leaf-file-name="vars.styl" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dev/static/stylus/vars.styl">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="493">
+                  <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="questions.pug" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Chajka/dev/pug/modules/questions.pug">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="109" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="12" selection-end-column="109" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="footer.styl" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/footer.styl">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="173">
+                  <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mixins.pug" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dev/pug/mixins.pug">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="394">
+                <state relative-caret-position="360">
                   <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
                   <folding />
                 </state>
@@ -93,14 +149,14 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="img.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="img.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/gulp/tasks/img.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <state relative-caret-position="136">
+                  <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
                   <folding>
-                    <marker date="1503593747223" expanded="true" signature="63:123" ph="{...}" />
-                    <marker date="1503593747223" expanded="true" signature="339:402" ph="{...}" />
+                    <marker date="1504390805158" expanded="true" signature="63:123" ph="{...}" />
+                    <marker date="1504390805158" expanded="true" signature="371:434" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -126,16 +182,6 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="libs.min.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build/static/js/libs.min.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="team.pug" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dev/pug/modules/team.pug">
               <provider selected="true" editor-type-id="text-editor">
@@ -146,10 +192,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="team.styl" pinned="false" current-in-tab="true">
+          <file leaf-file-name="team.styl" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/team.styl">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
+                <state relative-caret-position="2074">
                   <caret line="122" column="30" lean-forward="false" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
                   <folding />
                 </state>
@@ -171,6 +217,16 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="136">
                   <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gulp/tasks/styles.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -233,7 +289,6 @@
         <option value="$PROJECT_DIR$/dev/static/stylus/libs.styl" />
         <option value="$PROJECT_DIR$/dev/static/stylus/modules/services.styl" />
         <option value="$PROJECT_DIR$/build/static/img/svg/symbol/sprite.svg" />
-        <option value="$PROJECT_DIR$/gulp/tasks/img.js" />
         <option value="$PROJECT_DIR$/dev/pug/modules/team.pug" />
         <option value="$PROJECT_DIR$/dev/pug/modules/services.pug" />
         <option value="$PROJECT_DIR$/dev/static/stylus/modules/skills.styl" />
@@ -249,14 +304,15 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/data/content.json" />
         <option value="$PROJECT_DIR$/dev/static/stylus/media.styl" />
-        <option value="$PROJECT_DIR$/dev/static/stylus/modules/footer.styl" />
         <option value="$PROJECT_DIR$/dev/static/js/main.js" />
         <option value="$PROJECT_DIR$/dev/static/stylus/modules/portfolio.styl" />
         <option value="$PROJECT_DIR$/dev/pug/modules/portfolio.pug" />
         <option value="$PROJECT_DIR$/dev/pug/layout/main.pug" />
-        <option value="$PROJECT_DIR$/dev/pug/modules/footer.pug" />
         <option value="$PROJECT_DIR$/dev/pug/mixins.pug" />
         <option value="$PROJECT_DIR$/dev/static/stylus/modules/team.styl" />
+        <option value="$PROJECT_DIR$/gulp/tasks/img.js" />
+        <option value="$PROJECT_DIR$/dev/static/stylus/modules/footer.styl" />
+        <option value="$PROJECT_DIR$/dev/pug/modules/footer.pug" />
       </list>
     </option>
   </component>
@@ -356,7 +412,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -473,13 +528,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/static/img/svg/symbol/sprite.svg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chajka/dev/pug/modules/questions.pug" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
   </component>
   <component name="RunDashboard">
@@ -587,12 +643,13 @@
       <workItem from="1503399998192" duration="720000" />
       <workItem from="1503467085538" duration="1913000" />
       <workItem from="1503563477831" duration="2000" />
-      <workItem from="1504388859877" duration="1628000" />
+      <workItem from="1504388859877" duration="2573000" />
+      <workItem from="1504441195524" duration="829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1636000" />
+    <option name="totallyTimeSpent" value="3410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
@@ -601,16 +658,16 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.16051364" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14168039" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27126807" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21065183" sideWeight="0.12106538" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.8789346" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12082671" sideWeight="0.8789346" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49423394" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -655,15 +712,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dev/static/stylus/fonts.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/static/stylus/components/side-navigation.styl" />
-    <entry file="file://$PROJECT_DIR$/dev/pug/components/main-navigation.pug" />
     <entry file="file://$PROJECT_DIR$/dev/static/stylus/components/main-navidation.styl" />
     <entry file="file://$PROJECT_DIR$/../Serfers/data/content.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -695,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/tasks/styles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/navigation.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -711,17 +751,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/static/img/svg/symbol/sprite.svg" />
-    <entry file="file://$PROJECT_DIR$/gulp/tasks/img.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1503593747223" expanded="true" signature="63:123" ph="{...}" />
-            <marker date="1503593747223" expanded="true" signature="339:402" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/services.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -799,30 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/paths/tasks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/tasks/pug.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/tasks/serve.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/header.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -852,14 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/portfolio.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
@@ -874,40 +871,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/static/stylus/vars.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/footer.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2414">
-          <caret line="142" column="26" lean-forward="false" selection-start-line="142" selection-start-column="26" selection-end-line="142" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/tasks/svg.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulp/tasks/watch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/tasks/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,30 +937,136 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/team.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="30" lean-forward="false" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/svg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/paths/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/pug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/serve.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/img.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+          <folding>
+            <marker date="1504390805158" expanded="true" signature="63:123" ph="{...}" />
+            <marker date="1504390805158" expanded="true" signature="371:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/pug/mixins.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chajka/dev/pug/modules/footer.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chajka/dev/pug/modules/feedback.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chajka/dev/pug/modules/questions.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="109" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="12" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/static/stylus/vars.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/footer.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/pug/modules/footer.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/pug/mixins.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/static/stylus/modules/team.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="122" column="30" lean-forward="false" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>

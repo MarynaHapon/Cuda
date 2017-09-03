@@ -8,6 +8,8 @@ Desktop.ini
 # Folder
 node_modules
 _materials
+.idea
+.gulp
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
